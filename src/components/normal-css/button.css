@@ -1,0 +1,15 @@
+button {
+    border-radius: 8px;
+    font-size: 24pt;
+    padding: 15px 50px;
+    width: 300px;
+}
+.dark {
+    background-color: #2465f1;
+    color: #fff;
+}
+.light{
+    background-color: #fff;
+    color: #2465f1;
+
+}
